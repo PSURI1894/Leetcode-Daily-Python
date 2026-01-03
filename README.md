@@ -1,11 +1,3 @@
-Got it. You want a **Python-only README**, **100% copy-pasteable**, no edits needed, clean and focused.
-
-Here it is 👇
-Paste this directly into **`README.md`** inside your **Python** repo or Python folder.
-
----
-
-```md
 # 🐍 LeetCode Daily – Python Solutions
 
 This repository contains my **daily LeetCode problem-solving practice using Python**.
